@@ -1,0 +1,16 @@
+[14-Jul-2014 15:56:53 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/volunteer.type.php on line 308
+[14-Jul-2014 15:56:59 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/theme.shortcodes.php on line 146
+[14-Jul-2014 15:57:02 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/theme.php on line 590
+[14-Jul-2014 15:57:06 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/theme.shortcodes.backup.php on line 190
+[14-Jul-2014 15:57:07 America/New_York] PHP Fatal error:  Call to undefined function wp_get_theme() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/constant-variables.php on line 7
+[14-Jul-2014 16:01:24 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/theme.admin.php on line 3
+[14-Jul-2014 16:01:47 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/event.type.php on line 156
+[14-Jul-2014 16:01:51 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/property.type.php on line 1127
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 22
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 23
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 32
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 33
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 42
+[14-Jul-2014 16:03:00 America/New_York] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'ThemeOptions' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 43
+[14-Jul-2014 16:03:00 America/New_York] PHP Fatal error:  Class 'ThemeAdmin' not found in /home/homeport/public_html/wp-content/themes/chp-2013/inc/chp_admin.php on line 51
+[09-Nov-2014 02:25:11 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/homeport/public_html/wp-content/themes/chp-2013/inc/event.type.php on line 156

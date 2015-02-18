@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){	$('.gform_previous_button').remove();	$('.gform_next_button').remove();		// override the gravity forms enter key changing page action with	// just a submit action	$('#gform_1').keypress(function(e) {		if(e.which == 13) {			jQuery(this).blur();			jQuery('#gform_submit_button_1').focus().click();		}	});});

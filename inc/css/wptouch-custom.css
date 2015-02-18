@@ -1,0 +1,117 @@
+body {
+  background: #fff url(/wp-content/themes/chp/images/iphone-background-clouds2.png)!important;
+}
+.classic-black #header {
+  background-color: #096333!important;
+  /*-webkit-box-shadow: rgba(0, 0, 0, .4) 0px 3px 3px;*/
+}
+
+.rental-header{
+  background-color:#A22024;
+}
+
+.rental-header a{
+  color:#fff;
+  text-decoration:none!important;
+}
+
+.learn-header{
+  background-color:#955CA3;
+}
+
+.learn-header a{
+  color:#fff;
+  text-decoration:none!important;
+}
+
+.live-header{
+  background-color:#E66126;
+}
+
+.live-header a{
+  color:#fff;
+  text-decoration:none!important;
+}
+
+.buy-header{
+  background-color:#025D8F;
+}
+
+.buy-header a{
+  color:#fff;
+  text-decoration:none!important;
+}
+
+#home-logo{
+  text-align:center;
+  /*width:279px;*/
+  height:100px; /*159px;*/
+  margin:10px auto 5px auto;
+}
+
+#home-logo img{
+  height:100px;
+}
+
+img.search-result-img {
+  float: left;
+  width: 64px;
+  height: 64px;
+  margin-right: 10px;
+}
+
+.mobile-search-result div.content{
+  float:left;
+  width:395px;
+  margin-left:auto;
+}
+
+.mobile-single-view-img{
+  text-align:center;
+  margin:0 auto 10px auto;
+}
+
+.mobile-single-view-img img{
+  margin:0 auto;
+}
+
+#adv-search{
+  display:none!important;
+}
+
+#masonry-container{
+  margin:10px 0 0 0;
+  padding:10px 0 0 0;
+  width:100%;
+}
+
+.masonry-box{
+  background-color:#C1CD23;
+  
+  float:left;
+  padding:10px;
+  
+  margin-bottom:10px;
+  width:100%;
+}
+.masonry-img{
+  width:100%;
+}
+
+.box, .box.align-right, .box.right, .box.align-left, .box.left {
+    
+    width: auto;
+}
+
+.box h3.question {
+	height: auto;	
+}
+
+.box .arrow {
+	display: none;	
+}
+
+iframe {
+	display: none;
+}
+

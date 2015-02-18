@@ -1,0 +1,214 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+:focus {/* remember to define focus styles! */
+	outline: 0;
+}
+body {
+	/*background: #B9E4EF url(images/clouds-bg.png) repeat-x -30px -60px;*/
+	background:#096333;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+table {/* tables still need 'cellspacing="0"' in the markup */
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+a img {
+	border: 0;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/* =Layout
+-------------------------------------------------------------- */
+.clearfix{
+  clear:both;
+}
+
+#wrap-outer{
+  /* background: #B9E4EF url(images/clouds-bg.png) repeat-x -30px -60px; */
+  background-color: #B9E4EF;
+  width:100%;
+  min-width:1100px;
+  /*border:1px dashed blue;*/
+  /*height:100%;*/
+}
+
+#wrap{
+  /*width:1100px;*/
+  width:100%;
+  min-width:1100px;
+  /*border:1px dashed orange;*/
+  margin:0 auto;
+  padding-top:20px;
+}
+
+#header{
+  width:1100px;
+  margin:0 auto;
+  height:128px;
+  position:relative;
+  z-index:10;
+}
+
+  img#logo{
+    width:279px;
+    height:159px;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:20;
+  }
+
+  #header-inner-wrap{
+
+  }
+  
+  #header-top{
+    text-align:right;
+    padding:25px 10px 0 0;
+    font-size:1.2em;
+    height:30px;
+    width:920px;
+    margin:0 55px 0 55px;  
+  }
+  
+  #header-bottom{
+    width:845px;
+    float:right;
+    height:48px;
+    background-color:#096333;
+    margin:0 108px 0 75px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position:relative;
+    z-index:10;
+  }
+
+.primary-page{
+  /*margin-top:25px;*/
+}
+
+/* fixes for when the cloud overlaps the top of content on the left */
+.content-404,
+.content-search,
+.content-tag,
+.content-level-with-us,
+.content-careers,
+.content-events,
+.content-get-involved,
+#content h2,
+#section-7522 .content,
+#content .entry-header {
+    margin-top:50px;
+	/*z-index:25!important;*/
+	position:relative;
+}
+
+#section-7522 .subnav {
+	display: none;
+}
+
+/* forcing overlap again */
+
+#content #post-6278 .entry-header {
+	margin-top: 0px;
+}
+
+/* adjusts single posts up when there are images, removes the 50px top margin for the cloud */
+.has-slider{
+  margin-top:10px!important;
+}
+
+
+#content #slider-wrapper {
+	/*margin-top:-50px;*/
+}
+
+#post-236 .entry-header {
+  display:none;
+}
+
+.content-events .entry-header{
+  /*margin-top:-10px!important;*/
+}
+
+
+
+#content.content-page .entry-title{
+  font-size:1.4em;
+  /*padding-top:0.75em;*/
+}
+
+#content.content-page .entry-content{
+  /*margin-top:2em;*/
+}
+  
+#page-wrap{
+  width:875px;
+  margin:-76px auto 0;
+  padding: 52px 5px 10px 5px;
+  background-color:#fff;
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border:3px solid white;
+  min-height:400px;
+}
+
+
+#page-wrap.property-search{
+}
+
+#faux-page-wrap{
+}
+
+#primary {
+	float: left;
+	width: 614px;
+	background-color:#fff;
+  margin-right: 11px;
+}
+
+#content {
+	background:#fff;
+}
+
+p {
+	margin:1em 0;
+}

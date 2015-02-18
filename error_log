@@ -1,0 +1,88 @@
+[14-Sep-2012 18:22:10 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[14-Sep-2012 18:22:10 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[25-Oct-2012 14:50:46 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[25-Oct-2012 14:50:46 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[04-Dec-2012 14:59:04 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[04-Dec-2012 14:59:04 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[18-Jan-2013 15:18:15 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[18-Jan-2013 15:18:15 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 02:29:56 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 02:29:56 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 02:29:56 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 02:29:56 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 02:29:58 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 02:29:58 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 02:29:58 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 02:29:58 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 21:24:41 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 21:24:42 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 21:24:43 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 21:24:43 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 21:24:50 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 21:24:50 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[07-Mar-2013 21:24:50 UTC] PHP Warning:  PHP Startup: apc.shm_size now uses M/G suffixes, please update your ini files in Unknown on line 0
+[07-Mar-2013 21:24:50 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp/index.php on line 14
+[19-Jun-2014 13:51:43 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[19-Jun-2014 13:51:43 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[19-Jun-2014 13:51:47 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[19-Jun-2014 13:51:47 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[24-Jun-2014 13:41:44 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 11:50:59 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 11:50:59 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 11:51:00 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 11:51:00 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:46:20 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:46:20 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:46:22 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:46:22 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:47:45 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:47:45 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:47:48 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 16:47:48 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 17:11:56 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 17:11:56 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 17:11:57 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Jul-2014 17:11:57 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[14-Jul-2014 15:56:51 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Aug-2014 10:22:19 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[07-Aug-2014 11:03:00 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[25-Aug-2014 14:42:46 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[26-Aug-2014 14:56:29 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[02-Sep-2014 17:09:59 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:18:25 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:18:25 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:18:27 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:18:27 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:23:50 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:23:50 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:23:51 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:23:51 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:23 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:23 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:24 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:24 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:50 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:50 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:51 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:25:51 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:27:12 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:27:12 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:27:13 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:27:13 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:28:07 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:28:07 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:28:08 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[03-Sep-2014 13:28:08 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[11-Sep-2014 14:20:46 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[18-Sep-2014 18:34:25 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[18-Sep-2014 18:34:26 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[18-Sep-2014 18:34:28 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[18-Sep-2014 18:34:28 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[24-Oct-2014 10:32:06 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[24-Oct-2014 10:32:06 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[24-Oct-2014 10:32:07 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[24-Oct-2014 10:32:07 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[09-Jan-2015 17:55:54 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14
+[21-Jan-2015 17:01:47 America/New_York] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/homeport/public_html/wp-content/themes/chp-2013/form-to-email.php on line 30
+[22-Jan-2015 09:46:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homeport/public_html/wp-content/themes/chp-2013/form-to-email.php:5) in /home/homeport/public_html/wp-content/themes/chp-2013/form-to-email.php on line 36
+[14-Feb-2015 12:36:29 America/New_York] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/homeport/public_html/wp-content/themes/chp-2013/index.php on line 14

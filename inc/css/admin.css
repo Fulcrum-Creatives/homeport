@@ -1,0 +1,628 @@
+/* WP admin addon CSS */
+.clearfix{ clear:both; }
+
+.custom-admin{
+    width:96%;
+    /*max-width:700px;*/
+    margin-top:15px;
+}
+  .custom-admin .admin-desc{
+    color:#aaa;
+    font-size:9pt;
+    text-align:right;
+  }
+  
+  #poststuff h2 {
+    margin-top: 0;
+    font-size: 12pt;
+    margin-bottom: 5px;
+    padding: 0;
+    clear: left;
+    text-align:left!important;
+    font-weight:bold;
+  }
+  
+  #titlediv, #poststuff .postarea {
+    margin-bottom: 10px;
+  }
+  
+    .custom-admin .postarea{
+      border:0!important;
+      box-shadow: none!important;
+    }
+    
+    .custom-admin .postarea.postimages{
+      margin:10px 0 10px;
+      border-top:1px solid #666;
+      border-bottom:1px solid #666;
+    }
+    
+    .custom-admin > div{
+        /*margin:0 0 20px 0;*/
+    }
+
+    .custom-admin .gallery {
+        clear:both;
+        margin:10px;
+    }
+    
+    .titlediv{
+      margin-bottom: 10px;
+      position: relative;
+    }
+    
+    .custom-admin label.inner, 
+    .custom-admin div.titlediv label {
+        color: #BBB;
+        font-size: 1.4em;
+        padding: 6px 4px 8px 6px;
+        position: absolute;
+    }
+    
+    #sales_only label,
+    #rental_only label{
+      padding: 3px 4px 5px 0;
+    }
+    
+    .custom-admin .notice {
+        color:#660000;
+        font-size:1.4em;
+    } 
+    
+    .custom-admin .chunky{
+        margin:1em;
+        font-size:1.4em;
+        font-variant:small-caps;
+        letter-spacing:-1px;
+    }
+    
+    .custom-admin label{
+        color:#333;
+    }
+    
+    
+    .custom-admin textarea{
+        height:150px;
+        border-color: #ccc;
+    }
+    
+    .custom-admin textarea, .custom-admin input, .custom-admin select{
+        margin: 1px;
+    }
+    
+    input[type="text"], input[type="password"], textarea {
+        -webkit-box-sizing: border-box;
+    }
+    
+    .custom-admin input[type="text"] {
+        border-bottom-left-radius: 6px 6px;
+        border-bottom-right-radius: 6px 6px;
+        border-style: solid;
+        border-width: 1px;
+        border-top-left-radius: 6px 6px;
+        border-top-right-radius: 6px 6px;
+        font-size: 11pt;
+        line-height: 100%;
+        outline: none;
+        padding: 3px 4px;
+        width: 100%;
+        cursor: text;
+        border-color: #ccc;
+        color:#666;
+    }
+    
+    label[for="current"]{
+      font-size: 1.4em;
+      curson:pointer;
+      width:165px;
+      line-height:1em;
+      padding:14px 0 0 0;
+    }
+    
+    .custom-admin input[type="checkbox"]{
+        font-size: 1.4em;
+        margin:0 5px 0 0;
+        width: auto;
+        cursor: pointer;
+    }
+    
+    .custom-admin input[type="text"].mini-text{
+        padding:0;
+        font-size:0.9em;
+    }
+    
+    .custom-admin input[type="submit"]{
+        
+    }
+    
+    .custom-admin input[type="button"]{
+        
+    }
+    
+    
+    #wpcontent select{
+      height:auto;
+      margin-top:4px;
+    }
+    
+    .custom-admin select{ 
+        padding:2px!important;
+        font-size:11pt!important;
+        width:auto;
+        min-width:200px;
+        color:#666!important;
+    }
+    
+    .custom-admin .mceEditor{
+        margin:0;
+        padding:0;
+        width:100%;
+    }
+    
+    .custom-admin textarea{ 
+        padding:2px;
+        font-size:10pt;
+        width:100%;
+        margin:1px 0 0 0;
+        color:#666;
+        /*display:none;*/
+    }
+
+    #tabs{
+        display:none;
+        width:96%;
+        margin:20px auto 10px 10px;
+    }
+    
+    .custom-admin .admin-inner{
+        margin:.5em 1em;
+    }
+    
+    .custom-admin .custom-section{
+        background-color:#fff;
+        border:1px solid #E78F08;
+        margin-bottom:1em;
+    }
+    
+
+    
+    .custom-admin .custom-section-end{
+        /*background-color:#fefefe;*/
+        padding:.5em;
+        margin-bottom:1em;
+    }
+    
+    .custom-admin .admin-page-heading{
+        
+    }
+    
+    .custom-admin .admin-title{
+        padding:.75em;
+        background: #F6A828 url(/wp-content/themes/chp/images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x;
+        border-bottom:2px solid #E78F08;
+    }
+    
+        
+    .custom-admin .admin-page-footing{
+        padding:.5em;
+    }
+    
+    .submit{
+        margin:0;
+        padding:0;
+    }
+    
+    .custom-admin span.submit{
+        float:right;
+        /*margin:.5em;*/
+    }
+    
+    .custom-admin .admin-input{
+        margin:1em 1em;
+    }
+    
+    .custom-admin .admin-radio{
+    }
+    
+    .custom-admin .admin-input label{
+
+    }
+    
+    
+table.mceLayout{
+    border:1px solid #aaa!important;
+    margin:3px auto!important;
+    
+}
+
+#img-dialog{
+    display:none;
+}
+
+
+/* overriding the WP admin U/I */
+.categorydiv div.tabs-panel, 
+.customlinkdiv div.tabs-panel, 
+.posttypediv div.tabs-panel, 
+.taxonomydiv div.tabs-panel, 
+#linkcategorydiv div.tabs-panel{
+/*    height:auto!important;*/
+/*    min-height:60px;*/
+/*    max-height:200px;*/
+}
+
+#content_ifr p{
+    margin:0;
+}
+
+/* uploader */
+.qq-uploader { position:relative; width: 100%;}
+
+.qq-upload-button {
+    display:block; /* or inline-block */
+    width: 105px; padding: 7px 0; text-align:center;    
+    background:#eeeeee; border:1px solid #ddd;color:#555555;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+    float:right;
+}
+.qq-upload-button-hover {background:#dddddd;}
+.qq-upload-button-focus {outline:1px dotted #444444;}
+
+.qq-upload-drop-area {
+    position:absolute; top:0; left:0; width:100%; height:100%; min-height: 70px; z-index:2;
+    background:#ccc; text-align:center; 
+}
+.qq-upload-drop-area span {
+    display:block; position:absolute; top: 50%; width:100%; margin-top:-8px; font-size:16px;
+}
+.qq-upload-drop-area-active {background:#FF7171;}
+
+.qq-upload-list{ display:none; }
+/*.qq-upload-list {margin:15px 35px; padding:0; list-style:disc;}*/
+.qq-upload-list li { margin:0; padding:0; line-height:15px; font-size:12px;}
+.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-failed-text {
+    margin-right: 7px;
+}
+
+.qq-upload-file {}
+.qq-upload-spinner {display:inline-block; background: url("loading.gif"); width:15px; height:15px; vertical-align:text-bottom;}
+.qq-upload-size,.qq-upload-cancel {font-size:11px;}
+
+.qq-upload-failed-text {display:none;}
+.qq-upload-fail .qq-upload-failed-text {display:inline;}
+
+#file-uploader{
+    float:right;
+}
+
+div.qq-uploader{
+    font-size:1.2em;
+}
+
+ul.qq-upload-list{
+    margin:1em;
+}
+
+ul.qq-upload-list li{
+    margin:1em;
+    padding:1em;
+}
+
+ul.qq-upload-list li.qq-upload-success{
+    
+}
+
+span.qq-upload-file{
+    
+}
+
+span.qq-upload-size{
+    padding-left:1em;
+}
+
+span.qq-upload-failed-text{
+    padding-left:1em;
+    color:red;
+}
+
+div.qq-upload-button {
+    width:130px;
+    padding:4px 8px;
+    border:1px solid #aaa;
+    /*float:left;*/
+    margin:1em;
+    text-align:center;
+    color:#777;
+}
+
+img.admin-thumb{
+    width:150px;
+    margin:5px;
+    padding:2px;
+    border:1px solid #ddd;
+}
+
+#chp_home_page_logo_images .admin-thumb-img-wrap{
+  width:100px;
+  height:40px;
+  overflow:hidden;
+}
+
+#chp_home_page_logo_images .admin-thumb-controls,
+#chp_home_page_logo_images textarea{
+  width:96px!important;
+  height:30px!important;
+  font-size:10px!important;
+}
+
+#chp_home_page_logo_images input[type="button"]{
+  padding:2px 4px!important;
+  font-size:10px!important;
+}
+
+
+div.admin-thumb-div{
+    width:160px;
+    float:left;
+    margin:10px;
+    text-align:center;
+}
+
+textarea.admin-thumb-caption{
+    width:100%;
+    float:left;
+    font-size:.9em;
+    line-height:1em;
+    height:4em!important;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+input.admin-thumb-caption-button{    
+    margin-left:5px;
+    font-size:.8em;
+}
+
+input.delete-admin-img{
+    /*margin-left:10px;*/
+    font-size:.8em;
+}
+
+div.admin-thumb-controls{
+    text-align:right!important;
+    
+}
+
+div.admin-no-images{
+    text-align:center;
+    font-size:1.5em;
+    color:#660000;
+    font-variant:small-caps;
+    padding:1em;
+}
+
+a.remove-one-button{
+    text-decoration:none;
+    background: #fdfdfd;
+    border: solid #999 1px;
+    border-bottom-left-radius: 3px 3px;
+    border-bottom-right-radius: 3px 3px;
+    border-top-left-radius: 3px 3px;
+    border-top-right-radius: 3px 3px;
+    color: #212121;
+    cursor: pointer;
+    font-size: 9px;
+    font-weight: normal;
+    padding: 3px 6px;
+    /*vertical-align: bottom;*/
+    /*margin-right:6px;*/
+}
+
+a.add-shift-button,
+a.add-date-button,
+a.add-more-button{
+    text-decoration:none;
+    background: #ddd;
+    border: solid #999 1px;
+    border-bottom-left-radius: 3px 3px;
+    border-bottom-right-radius: 3px 3px;
+    border-top-left-radius: 3px 3px;
+    border-top-right-radius: 3px 3px;
+    color: #212121;
+    cursor: pointer;
+    font-size: 9px;
+    font-weight: normal;
+    padding: 3px 5px;
+    /*vertical-align: bottom;*/
+}
+
+.ui-tabs .ui-tabs-nav li a{
+    padding: 0.25em 0.5em;
+}
+
+#img-loading{
+  display:none;
+}
+
+.titlediv-after h2{
+  color:#212121;
+  margin-top: 20px;
+  font-size: 1.5em;
+  margin-bottom: 0!important;
+  padding: 0 0 3px;
+  clear: left;
+  border-top:1px solid #ccc;
+}
+
+.ui-tabs .ui-tabs-nav li a,
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+  font-size:.9em;
+}
+
+#poststuff{
+  display:none;
+}
+
+
+#price{
+  padding-left:20px;
+  background:url(../../images/dollar.png) 4px 4px no-repeat;
+}
+/* map stuff */
+
+.mapCanvas{
+  
+}
+
+#mapCanvas-wrap{
+  padding:2px;
+  background-color:#aaa;
+  width:100%;
+}
+
+#mapCanvas{
+  width:auto;
+  height:250px;
+  
+}
+
+#address{
+  font-size:12px;
+}
+
+#address_update{
+  font-size:10px;
+  padding:2px 4px;
+}
+
+.alert{
+  background-color:#ffffcc;
+  color:red;
+  font-weight:bold;
+  padding:5px;
+  text-align:center;
+}
+/* end map stuff */
+
+/* end WP admin addon CSS */
+
+#post-addons,
+#event-info,
+#volunteer-info,
+#post-addons,
+#property-info{
+  margin-top:20px;
+  min-width:520px;
+}
+
+#poststuff{
+  min-width:900px;
+}
+
+/* wptouch cleanup */
+#wptouch-head{ display:none; }
+
+/* wptouch cleanup */
+
+
+/* volunteer stuff */
+div#volunteer-interests{
+  
+}
+
+div.volunteer-interest{
+  width:29%;
+  margin-right:3%;
+  padding:10px 0;
+  float:left;
+}
+
+table#volunteer-slot-table{
+  width:100%;
+}
+
+table#volunteer-slot-table tr{
+  
+}
+
+table#volunteer-slot-table th{
+  /*background:#fff;*/
+  border-bottom:2px solid #123D1D;
+  text-align:center;
+  font-weight:bold;
+  color:#096333;
+  padding:5px 0 0 0;
+}
+
+table#volunteer-slot-table tr td{
+  padding:10px;
+}
+
+.vol-buffer{
+  
+}
+
+.vol-day{
+  
+}
+
+.vol-block{
+  border-bottom:1px dotted #999;
+  border-right:1px dotted #999;
+}
+
+.vol-cb-wrap{
+  text-align:center;
+}
+
+input.vol-cb{
+  
+}
+/* end volunteer stuff */
+
+ul#admin-featured-posts li{
+  min-height:26px;
+}
+
+ul#admin-featured-posts li h3{
+  padding: 8px 0 0 8px;
+  min-height:26px;
+  list-style: none;
+  cursor: pointer;
+  width:auto;
+  margin-right:30px;
+}
+
+ul#admin-featured-posts a{
+  float:right;;
+  position: relative;
+  padding: 4px 0;
+  cursor: pointer;
+  list-style: none;
+  text-decoration:none;
+  margin:-4px 4px 0 0;
+  max-width:400px!important;
+  overflow:hidden;
+}
+
+.special-pricing{
+ /*float:left!important;*/
+ width:100px!important;
+ /*clear:right;*/
+}
+
+.special-label{
+  /*float:left!important;*/
+}
+
+.red{
+  color:#660000!important;
+}
+
+.special-price-listing{
+  margin:0 0 0 15px;
+}
+
+.special-pricing-widget{
+  margin-bottom:20px!important;
+}
